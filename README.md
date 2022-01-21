@@ -39,7 +39,5 @@ Huge-Collection-of-CheatSheet is being sponsored by the following tool;
 </BR>
 
 The collection includes hundreds of files, and sometimes i update it, </BR>
-so anyone interested can check the original repo here:
 
-</BR>
 
